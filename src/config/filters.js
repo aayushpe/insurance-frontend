@@ -1,6 +1,6 @@
 export const FILTERS = {
-    PillBugInsurance: 'Pill-Bug Insurance',
-    RatInsurance: 'Rat Insurance',
-    ToiletInsurance: 'Toilet Insurance',
-    CatInsurance: 'Cat Insurance'
+    businessOwnersPolicies: 'Business owners policies',
+    workersCompensation: 'Workers compensation',
+    riskInsurance: 'Builders risk insurance',
+    autoInsurance: 'Commercial auto insurance'
 }
